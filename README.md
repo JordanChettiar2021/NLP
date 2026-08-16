@@ -1,3 +1,1 @@
-<h1>My Project Showcase</h1>
-Welcome to my digital showcase! On this page, you can explore a diverse collection of projects created entirely by me. To see the full scope of my work, <b>please navigate through the GitHub branches of this tab; there, you will find every project I have completed till date.</b> Each branch represents a unique milestone in my development, from initial concepts to polished, final results. These works highlight my technical proficiency, creative problem-solving, and growth over time. I invite you to explore these repositories to see how I bridge the gap between imagination and functional, high-quality execution.
 
